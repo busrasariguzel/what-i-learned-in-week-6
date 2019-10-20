@@ -1,1 +1,3 @@
-# what-i-learned-in-week-6
+# `WHAT I LEARNED IN WEEK 6`
+
+
