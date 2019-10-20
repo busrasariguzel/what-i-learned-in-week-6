@@ -73,6 +73,29 @@ if ('aeiou').includes(currentCharacter){
 
 ## `Arrays`
 
+* We use arrays when we want to keep the order! 
+* Some examples : 
+
+```
+function firstItemIsNumber(arr) {
+  return typeof arr[0] === 'number'
+}
+
+function isLongList(arr) {
+  return (arr.length >= 10)
+}
+```
+* Adding / removing from the arrays:
+  
+  * arr.shift() - takes out the first item
+  * arr.unshift() - Adds items to the front of an array
+  * arr.push() - Adds items to the end of an array
+  * arr.pop() - Removes the last item from an array
+  * array.protype - lists the properties and methods of arrays.
+  
+
+
+
 
 
 
